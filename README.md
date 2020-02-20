@@ -1,7 +1,7 @@
 ChromExploreR
 ================
 
-**Based on the original ChromExploreR code by [Ayush T Raman](linkedin.com/in/aayushraman)**
+**Based on the original ChromExploreR code by Ayush T Raman**
 
 
 Intro
