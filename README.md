@@ -1,13 +1,13 @@
-ChromExploreR
+ChromXploreR
 ================
 
-**Based on the original ChromExploreR code by Ayush T Raman**
+**Based on the original ChromXploreR code by Ayush T Raman**
 
 
 Intro
 -----
 
-This is the way we run ChromExploreR (herafter 'ChromXR') in the lab. It allows the function to be run from within RStudio once the directories are properly organized.
+This is the way we run ChromXploreR (herafter 'ChromXR') in the lab. It allows the function to be run from within RStudio once the directories are properly organized.
 
 This script requires the '12chromHMM' folder from our lab's ChIP pipeline (or, generally, the main output directory from ChromHMM). It also requires that you have not changed the names of the directories or changed the overall directory structure inside 12chromHMM. The libraries and source files needed to run the script are included in the `Files` directory. The 'Custom\_functions\_pub.R' file is a source file that has required custom functions. This script also REQUIRES a bash script called 'chromXRloop.sh' and the 3 files ChromXR normally requires (listed below).
 
@@ -76,4 +76,4 @@ The Intro section of this post describes what each argument of `doChromXR` is an
 Related Posts
 -----
 
-An example of outputs from ChromExploreR analysis can be found [here on Rpubs.](http://rpubs.com/cjt5/502911)
+An example of outputs from ChromXploreR analysis can be found [here on Rpubs.](http://rpubs.com/cjt5/502911)
